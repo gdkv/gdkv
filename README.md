@@ -1,5 +1,20 @@
-### NI HAO ✌️
+# NI HAO ✌️
 
+I am interested in complex high-load web applications. I create full stack applications from scratch (including the design), REST APIs and mobile apps
+
+#### Programming languages:
+- PHP (>=5)
+- Python
+- Rust
+- JS 
+
+#### Backend/Frontend Frameworks
+- Symfony, Laravel, Django
+- Angular, Vue.js
+
+#### Bots
+- Creation of a Telegram bot
+  
 <!--
 **gdkv/gdkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
